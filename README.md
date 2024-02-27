@@ -1,4 +1,4 @@
-
+A quick project to generate a html page to display stats for my groupironman group members
 
 ```bash
 # create a new project in the current directory
