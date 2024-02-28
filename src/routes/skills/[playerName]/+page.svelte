@@ -263,5 +263,6 @@
         /* width: 45%; */
         /* height: 300px; */
         display: block;
+        width: 186px;
     }
 </style>
