@@ -1,6 +1,7 @@
+<script>
+  import "../app.css";
+</script>
 
-
-
-<main>
+<main class="h-screen">
     <slot/>
 </main>
